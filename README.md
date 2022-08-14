@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amadorsenai/Site-Hamburgueria-Mc-Bonald-s-/master/Refs/hamburgueria/img/logotipo_mcbonalds.png" height="200px" />  
+  <img src="https://github.com/amadorgabriel/1s2019-mcbonalds/blob/master/web/img/logotipo_mcbonalds.png" height="200px" />  
 </p>
 
 <h1 align="center"> Hamburgueria McBonald's </h1>
@@ -18,6 +18,8 @@
 - DotNet
 - Razor Syntax
 - Banco de dados em .CSV
+
+&nbsp;
 
 😊 Obrigado aos meus professores [César Sportore](https://www.linkedin.com/in/cesar-sportore/) e [Carlos Tsukamoto](https://github.com/TsukamotoCarlos) 💜 
 
